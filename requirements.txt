@@ -1,0 +1,11 @@
+pandas
+numpy
+scipy
+sklearn
+xgboost
+statsmodels
+matplotlib
+scikit-allel[full]
+plotly==5.1.0
+shap
+pomegranate
