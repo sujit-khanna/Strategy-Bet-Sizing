@@ -1,4 +1,5 @@
 # Betsizing algorithm using machine learning classifier for intraday VIX trading strategies
+ - For in-depth discussion of results and methodology, please refer this [presentation](https://github.com/sujit-khanna/Strategy-Bet-Sizing/blob/main/presentation.pdf) 
  - This repo contains implementation of a bet-sizing algorithm for a portfolio of intraday trading strategies on long VIX ETF (VXX)
  - The presentation.pdf contains a detailed discussion of the methodology and results
  - The size of the bet is calculated using the classifier of ML model and kelly criteria
